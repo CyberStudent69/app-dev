@@ -10,6 +10,7 @@ Release date is *April 25, 2018*
 4. Drama
 5. Adventure
 6. Science fiction
+---
 -Extreme Violence
 -Thanos
 ---
