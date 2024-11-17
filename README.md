@@ -13,7 +13,7 @@ Release date is *April 25, 2018*
 ---
 -Extreme Violence
 -Thanos
----
+
 You can watch it in [Netflix](https://www.netflix.com/ph-en/)
 ![The front or cover of the movie](![IF](https://github.com/user-attachments/assets/9651159c-75b9-4fea-bccb-383c5ef9333d)
 
